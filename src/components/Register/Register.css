@@ -1,0 +1,9 @@
+.register-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.register-form a {
+  text-decoration: none;
+}
